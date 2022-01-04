@@ -1,0 +1,469 @@
+id,germ,seed.number,buried,mushy?,prop.mushy,other notes
+840,y,0,n,n,0,
+932,y,0,n,y,1,all have fungus
+941,y,2,y,n,0,"sat on, seed head missing, assume 2"
+556,y,35,n,y,1,large plant
+569,y,40,n,y,1,
+548,y,22,n,y,1,
+520,y,42,n,y,1,
+540,y,14,n,y,1,
+541,y,25,n,y,1,
+567,y,7,n,y,1,
+516,y,20,n,y,1,
+527,y,19,n,y,1,
+944,y,19,n,y,1,
+502,y,17,n,y,1,
+515,y,22,n,y,1,
+536,y,16,n,y,1,
+632,y,16,n,y,0.13,
+712,y,16,n,y,1,
+815,y,13,n,y,0.08,
+883,y,13,n,y,1,"2 plants; 6, 20; all mushy, averaged"
+537,y,12,n,y,1,
+555,y,19,n,y,1,
+568,y,14,n,y,1,
+572,y,17,n,y,1,
+591,y,12,n,n,0,
+661,y,13,n,n,0,
+780,y,12,n,y,1,
+873,y,12,n,y,1,
+899,y,12,n,y,1,
+506,y,11,n,y,1,
+524,y,11,n,y,1,
+885,y,11,n,y,1,
+672,y,9.5,n,n,0,"2 plants; plant#1 8; plant#2 11, averaged"
+538,y,9,n,y,1,
+816,y,9,n,y,1,
+993,y,9,n,y,1,sat on
+856,y,9,n,y,1,"2 plants, 1 empty, was 18 but half = 9"
+503,y,8,n,y,1,
+525,y,8,n,y,1,
+532,y,8,n,y,1,
+649,y,8,n,n,0,
+794,y,8,n,n,0,
+809,y,8,n,y,0.25,
+845,y,8,n,y,0.25,
+535,y,7.67,n,y,1,"3 plants, 1=1 mushy, 2=16 mushy, 3=6 mushy"
+505,y,7,n,y,1,
+514,y,7,n,y,1,"2 plants, 1 = 8 mushy, 2 = 6 mushy, averaged"
+523,y,11,n,y,1,
+585,y,7,n,y,1,
+830,y,7,n,y,1,
+900,y,7,n,y,0.43,
+927,y,7,n,y,0.25,"2 plants, 1 = 2 hard 2 mushy, 2 = 10 almost hard, veraged"
+968,y,7,n,y,0.83,
+522,y,6,n,y,1,anther
+542,y,10,n,y,1,"2 plants, 1=9 mushy, 2=3 mushy, averaged"
+554,y,14,n,y,1,
+749,y,6,n,n,0,
+791,y,6,n,y,0.33,
+872,y,6,n,y,1,
+902,y,6,n,n,0,
+814,y,6,n,y,0.33,"2 plants, 1 = 1, 2 = 11, average"
+526,y,5.333333333,n,y,1,"3 plants; plant#1 0; plant#2 3; plant#3 13, averaged"
+507,y,5,n,y,1,
+547,y,5,n,y,1,
+602,y,5,n,n,0,"2 plants, one empty"
+612,y,5,n,n,0,
+647,y,5,n,n,0,
+756,y,5,n,n,0,
+762,y,5,n,n,0,
+823,y,5,n,n,0,
+862,y,5,n,y,1,
+871,y,5,n,y,0.4,
+880,y,5,y,y,0.2,
+931,y,5,n,y,1,
+938,y,5,n,y,1,
+939,y,5,n,y,1,sat on
+942,y,5,n,y,1,
+787,y,5,n,y,0.4,"2 plants; plant#1 7 hard seeds, plant#2 3 mushy seeds (averaged)"
+720,y,4.5,n,y,0.44,"2 plants, 1 = glumes only, 2 = 8 seed, 5 are hard, averaged"
+948,y,4.5,n,y,1,"2 plant, 1 = 5 diseased, 2 = 4, averaged"
+510,y,4,n,y,1,
+518,y,19,n,y,1,
+534,y,4,n,y,1,
+543,y,4,n,y,1,
+550,y,10,n,y,1,big plant but many duds
+586,y,4,n,n,0,
+587,y,4,n,n,0,
+588,y,4,n,y,1,
+623,y,4,n,n,0,
+662,y,4,n,y,0.5,
+683,y,4,n,y,1,
+695,y,4,n,y,0.25,"3 mature seeds, 1 mushy seed"
+715,y,4,n,n,0,
+721,y,4,n,n,0,
+722,y,4,n,n,0,
+735,y,4,n,n,0,
+754,y,4,n,n,0,
+767,y,4,n,n,0,
+772,y,4,n,n,0,
+804,y,4,n,n,0,
+813,y,4,n,y,0.75,
+865,y,4,n,n,0,"2 plants, 1 plant with 0"
+870,y,4,n,n,0,
+882,y,4,n,n,0,
+894,y,4,n,n,0,
+907,y,4,n,n,0,"uncertain large plant, may not be focal one"
+911,y,4,n,n,0,
+930,y,4,n,n,0,
+936,y,4,n,n,0,
+946,y,4,n,y,1,
+706,y,4,n,n,0,"2 plants, plant#1 0 seeds, plant#2 8 seeds, averaged"
+565,y,1,n,y,1,"2 plants, 1=7 mushy, 2=0, averaged"
+634,y,3.5,n,7,0.5,"2 plants, 1 = glumes only, 2 = 7 seeds, 4 are hard"
+500,y,3,n,y,1,
+545,y,3,n,y,1,
+584,y,3,n,y,1,
+610,y,3,n,n,0,
+611,y,3,n,y,0.67,
+633,y,3,n,n,0,
+670,y,1.5,n,n,0,"another 670, 3 hard seeds (best guess, this 670 came first in the order)"
+673,y,3,n,n,0,
+685,y,3,n,n,0,
+690,y,3,n,n,0,
+696,y,3,n,y,0.33,"2 plants, 1 empty"
+724,y,3,n,n,0,
+727,y,3,n,n,0,
+737,y,3,n,n,0,
+739,y,3,n,n,0,
+746,y,3,n,y,0.1,"2 plants, 1=1 mush, 2=5 hard, averaged"
+755,y,3,n,y,0.33,"4 hard seeds, 2 mushy seeds, averaged"
+764,y,3,n,y,1,
+785,y,3,n,y,1,
+793,y,3,n,n,0,
+810,y,3,n,n,0,
+819,y,3,n,y,1,
+826,y,3,y,n,0,
+860,y,3,n,n,0,
+864,y,3,n,y,1,
+866,y,3,n,y,1,
+879,y,3,n,y,1,
+934,y,3,n,y,0.67,"2 plants, one empty"
+937,y,3,n,y,0.67,"sat on, replaced with local population plant"
+943,y,3,n,y,1,sat on
+966,y,3,n,n,0,
+969,y,3,n,y,1,"2 plants, 1 empty (glume)"
+533,y,3,n,y,1,"2 plants; plant#1 0; plant#2 6 anthers, large plant, many duds, averaged"
+891,y,3,n,n,0,"2 plants, 1 empty (glume), was 6 but half is 3"
+769,y,2.5,n,y,0.2,"plant#1 1 seed (mushy), plant#2 4 seeds (hard), averaged"
+521,y,2,n,y,1,
+530,y,2,n,y,1,
+546,y,2,n,y,1,
+599,y,2,n,n,0,
+608,y,2,n,n,0,
+630,y,2,n,n,0,
+652,y,2,n,y,1,
+666,y,2,n,n,0,
+679,y,2,n,n,0,
+702,y,2,n,n,0,
+705,y,2,n,y,1,
+725,y,2,n,n,0,
+732,y,2,n,n,0,
+740,y,2,n,n,0,
+745,y,2,n,n,0,
+795,y,2,n,n,0,
+805,y,2,n,n,0,
+808,y,2,n,y,1,
+817,y,2,n,n,0,
+825,y,2,n,n,0,
+838,y,2,n,n,0,
+868,y,2,n,n,0,"2 plants, 1=3 hard seed, 2 = 1hard, averaged"
+895,y,2,n,y,1,
+896,y,2,n,n,0,
+925,y,2,n,n,0,
+926,y,2,n,y,0.5,
+955,y,2,n,y,1,
+672b,y,2,n,y,1,
+594,y,1.5,n,n,0,"2 plants, 1 = 1 hard, 2 = 2hard, averaged"
+601,y,1.5,n,n,0,"2 plants, plant#1 3 seeds; plant#2 0 seeds, averaged"
+915,y,1.5,n,y,1,"2 plants; 1 in plant#1, 2 in plant #2, averaged"
+589,y,1,n,n,0,
+592,y,1,n,n,0,"glumes only, 1 dded"
+600,y,1,n,n,0,"glumes only, 1 added"
+626,y,1,n,n,0,
+631,y,1,n,n,0,
+646,y,1,n,y,1,
+664,y,1,n,n,0,glumes only
+669,y,1,n,n,0,
+682,y,1,n,n,0,glumes only
+686,y,1,n,n,0,
+687,y,1,n,n,0,
+692,y,1,n,n,0,
+708,y,1,n,y,1,
+719,y,1,n,n,0,
+729,y,1,n,n,0,glumes only
+730,y,1,n,n,0,
+736,y,1,n,n,0,glumes only
+742,y,1,n,n,0,3 fungusy also
+748,y,1,n,n,0,"2 plants, 1 = 0, 2 = 2hard, averaged"
+760,y,1,n,y,1,
+766,y,1,n,n,0,
+770,y,1,n,n,0,glumes only
+782,y,1,n,n,0,
+789,y,1,n,n,0,
+790,y,1,n,n,0,3 fungus also
+796,y,1,n,y,1,
+806,y,1,n,y,1,
+818,y,1,n,n,0,glumes only
+824,y,1,n,n,0,glumes only
+837,y,1,n,n,0,"2 plants, 1 empty plant (glumes only), 1 added so averages to 1"
+847,y,1,n,n,0,
+852,y,1,n,n,0,glumes only
+857,y,1,n,n,0,
+869,y,1,n,y,1,
+884,y,1,n,n,0,"at least 1 missing, one glume missing"
+890,y,1,n,n,0,
+893,y,1,n,n,0,
+909,y,1,n,y,1,
+910,y,1,n,n,0,glumes only
+913,y,1,n,n,0,"2 plants, one empty"
+917,y,1,n,n,0,"2 plants, 1 empty"
+919,y,1,n,n,0,
+928,y,1,n,n,0,
+929,y,1,n,n,0,glumes only
+940,y,1,n,n,0,glumes only
+950,y,1,n,n,0,
+956,y,1,n,n,0,3 glumes only
+960,y,1,n,n,0,glumes only
+962,y,1,n,n,0,glumes only
+964,y,1,n,n,0,glumes only
+753,y,1,n,n,0,"2 plants, plant#1 1 seed; plant#2 1 seed, averaged"
+898,y,1,n,n,0,"3 plants, plant#1 with 2 hard seeds, plant#2 no seeds, plant#3 fungus, 2 averaged"
+501,y,0,n,n,0,
+504,y,0,n,n,0,knocked over
+508,y,0,n,n,0,
+509,n,0,n,n,0,
+511,n,0,n,n,0,
+512,n,0,n,n,0,
+513,y,0,n,n,0,
+517,y,0,n,n,0,"2 plants; plant#1 0 seeds, plant#2 0 seeds"
+519,y,0,n,n,0,
+528,y,0,n,y,1,"anthers, likely a local (red) plant grown in a different coloured tube"
+529,y,0,n,n,0,
+531,n,0,n,n,0,
+539,y,0,n,n,0,pollen/anther lambda(?)
+544,n,0,n,n,0,
+549,y,0,n,n,0,
+551,n,0,n,n,0,"exclude, tube rolled away"
+552,n,0,n,n,0,
+553,n,0,n,n,0,
+557,y,0,n,n,0,"4 plants; 0 seeds, anthers"
+558,y,0,n,n,0,big plant  
+560,n,0,n,n,0,
+561,n,0,n,n,0,
+562,y,0,n,n,0,"2 plants, both large plants with 0 seeds"
+563,y,0,n,n,0,"many empties, 2 plants but both 0"
+564,n,0,n,n,0,
+566,n,0,n,n,0,
+570,n,0,n,n,0,
+571,n,0,n,n,0,
+581,y,0,n,n,0,1 disease
+582,y,0,n,n,0,
+583,y,0,n,n,0,
+590,y,0,n,n,0,
+595,y,0,n,n,0,
+596,y,0,n,n,0,
+597,y,0,n,n,0,
+598,y,0,n,n,0,
+603,y,0,n,n,0,
+604,y,0,n,n,0,
+605,y,0,n,n,0,
+606,y,0,n,n,0,
+607,n,0,n,n,0,
+609,y,0,n,n,0,
+613,y,0,n,n,0,
+614,y,0,n,n,0,
+615,y,0,n,n,0,
+616,y,0,n,n,0,
+617,y,0,n,y,1,
+618,y,0,n,n,0,
+619,y,0,n,n,0,
+620,y,0,n,n,0,
+621,y,0,n,n,0,
+622,y,0,n,n,0,
+624,y,0,n,n,0,
+625,y,0,n,n,0,
+627,n,0,n,n,0,
+628,y,0,n,n,0,
+629,y,0,n,n,0,
+635,y,0,n,n,0,
+636,y,0,n,n,0,
+637,n,0,n,n,0,
+638,y,0,n,n,0,
+639,y,0,n,n,0,
+640,y,0,n,n,0,
+642,n,0,n,n,0,
+643,y,0,n,n,0,
+644,y,0,n,n,0,
+645,y,0,n,n,0,
+648,y,0,n,n,0,
+650,n,0,n,n,0,
+651,n,0,n,n,0,
+653,y,0,n,n,0,
+654,y,0,n,n,0,
+655,y,0,n,n,0,
+656,y,0,n,n,0,
+657,y,0,n,n,0,
+658,y,0,n,n,0,
+659,y,0,n,n,0,
+660,n,0,n,n,0,
+663,y,0,n,n,0,
+665,n,0,n,n,0,
+667,y,0,n,n,0,
+668,n,0,n,n,0,
+671,y,0,n,n,0,
+674,y,0,n,n,0,"2 plants, both empty"
+675,y,0,n,n,0,
+676,y,0,n,n,0,"seed head missing, herbivory?"
+677,n,0,n,n,0,
+678,y,0,n,n,0,
+681,y,0,n,n,0,
+684,y,0,n,n,0,
+688,y,0,n,n,0,
+689,y,0,n,n,0,
+691,y,0,n,n,0,
+693,y,0,n,n,0,
+694,y,0,n,n,0,
+697,y,0,n,n,0,
+698,y,0,n,n,0,
+699,y,0,n,n,0,
+700,n,0,n,n,0,
+701,n,0,n,n,0,
+703,y,0,n,n,0,
+704,y,0,n,n,0,
+707,y,0,n,n,0,
+709,y,0,n,n,0,
+710,y,0,n,n,0,fungus
+711,y,0,n,n,0,herbivory?
+713,y,0,n,n,0,
+714,y,0,n,n,0,
+716,y,0,n,n,0,
+717,y,0,n,n,0,
+718,n,0,n,n,0,
+723,y,0,n,n,0,
+726,n,0,n,n,0,
+728,y,0,n,n,0,
+731,n,0,n,n,0,
+733,n,0,n,n,0,
+734,n,0,n,n,0,
+738,y,0,n,n,0,
+741,y,0,n,n,0,
+743,y,0,n,n,0,
+744,y,0,n,n,0,
+747,n,0,n,n,0,
+750,y,0,n,n,0,
+751,y,0,n,n,0,
+752,y,0,n,n,0,
+757,y,0,n,n,0,3 mold
+758,y,0,n,n,0,
+759,n,0,n,n,0,
+761,n,0,n,n,0,
+763,y,0,n,n,0,"2 plants, plant#1 0 seeds; plant#2 0 seed"
+765,y,0,n,n,0,fungus
+768,n,0,n,n,0,
+771,y,0,n,n,0,
+773,y,0,n,n,0,
+774,y,0,n,n,0,
+775,y,0,n,n,0,
+776,y,0,n,n,0,
+777,y,0,n,n,0,
+778,y,0,n,n,0,
+779,y,0,n,n,0,herbivory?
+781,y,0,n,n,0,
+783,y,0,n,n,0,
+784,n,0,n,n,0,
+786,y,0,n,n,0,
+788,n,0,n,n,0,
+792,y,0,n,n,0,
+797,y,0,n,n,0,seed head (small) with no seeds
+798,y,0,n,n,0,
+799,y,0,n,n,0,
+800,y,0,n,n,0,
+802,y,0,n,n,0,
+803,y,0,n,n,0,
+807,y,0,n,n,0,
+811,n,0,n,n,0,
+812,y,0,n,n,0,fungus
+820,y,0,n,n,0,
+821,y,0,n,n,0,
+822,n,0,n,n,0,
+827,y,0,n,n,0,
+828,y,0,n,n,0,
+829,n,0,n,n,0,
+831,n,0,n,n,0,
+833,y,0,n,n,0,
+834,y,0,n,n,0,
+835,y,0,n,n,0,
+836,y,0,n,n,0,4 diseased seed
+839,y,0,n,n,0,
+841,y,0,n,n,0,
+842,y,0,n,n,0,
+843,n,0,n,n,0,
+844,y,0,n,n,0,
+846,n,0,n,n,0,
+848,y,0,n,n,0,
+849,y,0,n,n,0,
+850,y,0,n,n,0,
+851,y,0,n,n,0,
+853,y,0,n,n,0,
+854,y,0,n,n,0,
+855,y,0,n,n,0,
+858,y,0,n,n,0,"2 plants, 1 empty (glume) other no seeds"
+859,y,0,n,n,0,
+861,y,0,y,n,0,
+863,y,0,n,y,1,
+867,n,0,y,n,0,
+874,y,0,n,n,0,
+875,n,0,n,n,0,
+876,y,0,n,n,0,
+877,y,0,n,n,0,
+878,y,0,n,n,0,
+881,n,0,n,n,0,
+886,y,0,n,n,0,
+887,y,0,n,n,0,
+888,y,0,n,n,0,
+889,y,0,n,n,0,
+892,y,0,n,n,0,
+897,y,0,n,n,0,
+901,n,0,n,n,0,
+903,y,0,n,n,0,
+904,y,0,n,n,0,
+905,n,0,n,n,0,
+906,y,0,n,n,0,
+908,y,0,n,n,0,
+912,y,0,n,n,0,
+914,y,0,n,n,0,
+916,y,0,n,n,0,
+918,n,0,n,n,0,
+920,n,0,n,n,0,
+921,y,0,n,n,0,
+922,n,0,n,n,0,
+923,y,0,n,n,0,"20 fungusy, may not be focal one??"
+924,n,0,n,n,0,
+935,y,0,n,n,0,sat on
+945,y,0,n,n,0,
+947,n,0,n,n,0,
+949,n,0,n,n,0,
+951,y,0,n,n,0,glumes only but not big ones
+952,y,0,n,n,0,
+953,n,0,n,n,0,avena in bag
+954,y,0,n,n,0,
+957,n,0,n,n,0,
+958,y,0,n,n,0,
+959,n,0,n,n,0,
+961,y,0,n,n,0,"trampled, and red replaced with nearby plant"
+963,y,0,n,n,0,
+965,n,0,n,n,0,
+967,n,0,n,n,0,
+1000,n,0,n,n,0,
+670b,y,0,n,n,0,
+671b,y,0,n,n,0,
+673b,y,0,n,n,0,
+674b,y,0,n,n,0,
+675b,n,0,n,n,0,
+676b,y,0,n,n,0,
+677b,y,0,n,n,0,
+678b,y,0,n,n,0,
+679b,n,0,n,n,0,
+680b,n,0,n,n,0,
